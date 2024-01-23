@@ -1,0 +1,4 @@
+ConfiguracionIDE/
+Evidencias del desarrollo/1.PNG
+Evidencias del desarrollo/2.PNG
+Evidencias del desarrollo/manual.txt
